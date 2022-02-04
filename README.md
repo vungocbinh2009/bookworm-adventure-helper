@@ -1,5 +1,6 @@
 # bookworm-adventure-helper
-Easier way to play bookworm adventures 
+Easier way to play bookworm adventures.
+
 Dependencies: Typer, PyDictionary, translate.
 
 # How to use:
